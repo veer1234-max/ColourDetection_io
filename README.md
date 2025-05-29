@@ -1,0 +1,1 @@
+This project demonstrates a Python-based color detection tool that allows users to identify the name of any color by clicking on pixels in an image. The program uses OpenCV and a predefined dataset (colors.csv) to match the RGB values of a clicked pixel to the closest color name.
